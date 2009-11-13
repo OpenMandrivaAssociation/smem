@@ -1,15 +1,15 @@
 Name:		smem
-Version:	0.1
+Version:	0.9
 Release:	%mkrel 1
 Summary:	Memory reporting tool
 Group:		Monitoring
 License:	GPLv2+
 URL:		http://www.selenic.com/%{name}/
 Source0:	http://www.selenic.com/%{name}/download/%{name}-%{version}.tar.gz
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+Requires:	python
+Requires:	python-matplotlib
 BuildArch:	noarch
-
-Requires:	python python-matplotlib
+BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 smem is a tool that can give numerous reports on memory usage on Linux systems.
