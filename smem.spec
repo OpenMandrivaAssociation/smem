@@ -1,6 +1,6 @@
 Name:		smem
 Version:	0.9
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Memory reporting tool
 Group:		Monitoring
 License:	GPLv2+
