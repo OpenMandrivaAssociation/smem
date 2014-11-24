@@ -1,2 +1,4 @@
+removed_sources:
+  smem-0.9.tar.gz: b858f7be01ab889c8e573e3137f184abc6ad040d
 sources:
-  "smem-0.9.tar.gz": b858f7be01ab889c8e573e3137f184abc6ad040d
+  smem-1.4.tar.gz: 70bd916ada12f1a2af63734d8093510a18fa8961
