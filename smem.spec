@@ -4,7 +4,7 @@ Release:	3
 Summary:	Memory reporting tool
 Group:		Monitoring
 License:	GPLv2+
-URL:		http://www.selenic.com/%{name}/
+URL:		https://www.selenic.com/%{name}/
 Source0:	http://www.selenic.com/%{name}/download/%{name}-%{version}.tar.gz
 Requires:	python
 Requires:	python-matplotlib
